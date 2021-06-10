@@ -22,7 +22,7 @@ clix new [alias name] [Your Command]
 clix show [alias name]
 
 # rename command alias
-clix rename [alias name] [new alias name]
+clix rename [alias old name] [new name]
 
 # update command alias
 clix update [alias name] [New Command]
