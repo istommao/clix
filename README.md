@@ -1,0 +1,2 @@
+# clix
+command alias extension
