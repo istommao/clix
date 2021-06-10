@@ -8,6 +8,7 @@ command alias extension
 - [ ] show command alias
 - [ ] rename command alias
 - [ ] update command alias
+- [ ] run command
 
 ## Quick start
 
@@ -26,4 +27,7 @@ clix rename [alias old name] [new name]
 
 # update command alias
 clix update [alias name] [New Command]
+
+# run command
+clix run [alias name]
 ```
