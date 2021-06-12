@@ -3,12 +3,12 @@ command alias extension
 
 ## feature
 
-- [ ] show command alias list
-- [ ] create new command alias
-- [ ] show command alias
-- [ ] rename command alias
-- [ ] update command alias
-- [ ] run command
+- [x] show command alias list
+- [x] create new command alias
+- [x] show command alias
+- [x] rename command alias
+- [x] update command alias
+- [x] run command
 
 ## Quick start
 
