@@ -2,7 +2,9 @@
 name = "clix"
 version = "0.1.0"
 authors = ["codingcat <istommao@gmail.com>"]
-edition = "2018"
+repository = "https://github.com/istommao/clix"
+description = "A command alias extension"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

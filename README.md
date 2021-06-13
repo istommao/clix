@@ -1,7 +1,7 @@
 # clix
 command alias extension
 
-## feature
+## Feature
 
 - [x] show command alias list
 - [x] create new command alias
@@ -9,6 +9,13 @@ command alias extension
 - [x] rename command alias
 - [x] update command alias
 - [x] run command
+
+
+## Install
+
+```bash
+curl -s https://sh.rustup.rs | clix
+```
 
 ## Quick start
 
