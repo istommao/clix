@@ -14,8 +14,13 @@ command alias extension
 ## Install
 
 ```bash
-curl -s https://sh.rustup.rs | clix
+cargo install clix
 ```
+
+### From binaries
+
+- https://github.com/istommao/clix/releases
+
 
 ## Quick start
 
